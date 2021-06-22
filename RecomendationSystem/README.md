@@ -1,0 +1,1 @@
+Desarrollar en Python una aplicación original que realice recomendaciones sobre un conjunto de películas, utilizando para ello filtrado colaborativo basado en ítems.
